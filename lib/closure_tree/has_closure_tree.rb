@@ -12,7 +12,6 @@ module ClosureTree
         :numeric_order,
         :touch,
         :with_advisory_lock,
-        :advisory_lock_timeout_seconds,
         :order_belong_to
       )
 
