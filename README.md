@@ -61,6 +61,7 @@ for a description of different tree storage algorithms.
 - [Concurrency](#concurrency)
 - [FAQ](#faq)
 - [Testing](#testing)
+- [Contributing](#contributing)
 - [Change log](#change-log)
 
 ## Installation
@@ -681,6 +682,22 @@ Closure tree is [tested under every valid combination](http://travis-ci.org/#!/C
 
 Assuming you're using [rbenv](https://github.com/sstephenson/rbenv), you can use ```tests.sh``` to
 run the test matrix locally.
+
+## Contributing
+
+We welcome contributions to Closure Tree! This project uses [Changie](https://changie.dev/) for automated changelog management.
+
+**All pull requests must include a changie entry.** To add one:
+
+```bash
+changie new
+```
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
+- Setting up your development environment
+- Installing and using Changie
+- Code style and testing requirements
+- The pull request process
 
 ## Change log
 

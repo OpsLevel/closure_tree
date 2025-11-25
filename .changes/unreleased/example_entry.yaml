@@ -1,0 +1,6 @@
+kind: Documentation
+body: Add Changie integration for automated changelog management
+time: 2024-11-25T16:41:00Z
+custom:
+  Author: "@system"
+  Issue: "N/A - Initial Changie setup"
